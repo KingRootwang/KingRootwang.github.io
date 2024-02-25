@@ -5,6 +5,7 @@
 - [OTP](https://otp.landian.vip)
 - [好东西](https://www.wenshushu.cn/box/2y9xxjki7c8)
 - [SakuraFrp](https://natfrp.com)
+- [音搜](https://dmla.lanzouy.com/b05qm5cde)
 
 ### 其它
 - SSH via SakaraFrp:
