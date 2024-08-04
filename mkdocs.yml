@@ -1,9 +1,9 @@
 site_name: KRW's Page
-site_url: https://krw.run.place/index
+site_url: https://krw.run.place
 
 # Repository
-repo_name: KingRootwang/kingrootwang.github.io
-repo_url: https://github.com/KingRootwang/kingrootwang.github.io/
+repo_name: KingRootwang/website
+repo_url: https://github.com/KingRootwang/website/
 theme:
   name: material
   palette:
@@ -29,5 +29,5 @@ theme:
         icon: material/toggle-switch-off
         name: Switch to system preference
 nav:
-  - Home: docs/index.md
-  - Welcome: docs/welcome.md
+  - Home: index.md
+  - Welcome: welcome.md
