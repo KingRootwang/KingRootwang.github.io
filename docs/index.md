@@ -2,7 +2,7 @@
 ## 记录一些link
 ### 音乐标签PC
 - [lanzou](https://wwc.lanzouy.com/ik0lo0ae7bcf)
-- 密码:`www.coolapk.com`
+- 密码: `www.coolapk.com`
 ### 音搜
 - [lanzou](https://dmla.lanzouy.com/b05qm5cde)
 ### MusicFree
