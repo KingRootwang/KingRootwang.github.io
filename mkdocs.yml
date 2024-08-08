@@ -1,9 +1,9 @@
 site_name: KRW's Page
-site_url: https://krw.run.place
+site_url: https://krw.redirectme.net
 
 # Repository
-repo_name: KingRootwang/website
-repo_url: https://github.com/KingRootwang/website/
+repo_name: KingRootwang/KingRootwang.github.io
+repo_url: https://github.com/KingRootwang/KingRootwang.github.io
 theme:
   name: material
   palette:
