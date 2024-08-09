@@ -37,7 +37,7 @@ jobs:
       - run: pip install mkdocs-material
 
       - name: Create CNAME file
-        run: echo "krw.redirectme.net" > docs/CNAME  # Adjust the path if necessary
+        run: echo "krw.run.place" > docs/CNAME  # Adjust the path if necessary
 
       - run: mkdocs gh-deploy --force
 
