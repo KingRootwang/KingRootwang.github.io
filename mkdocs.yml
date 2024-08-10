@@ -28,6 +28,20 @@ theme:
       toggle:
         icon: material/toggle-switch-off
         name: Switch to system preference
+
+plugins:
+  - search
+  - blog
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 nav:
   - Home: index.md
+  - Note 4 Links: links.md
   - Welcome: welcome.md
+  - Blog:
+     - blog/index.md
