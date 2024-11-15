@@ -3,7 +3,7 @@ rep(){
 	git add .
 	git commit -m test
 	git push
-	sleep 3
+	sleep 1
 	rep
 }
 rep
